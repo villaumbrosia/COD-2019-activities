@@ -37,5 +37,5 @@ Your goal in Project B is to attempt to replicate the *visual* look of the wiref
 
 Part 1: The wireframe reference is the same as Project A.
 
-Part 2: ![Activity Wireframe](3A-activity-mobile-wireframe.png)
-For Part 2, the breakpoint the designer has requested is 480px. 
+Part 2: For Part 2, the breakpoint the designer has requested is 480px. The following is the wireframe reference: 
+![Activity Wireframe](3A-activity-mobile-wireframe.png)
