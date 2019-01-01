@@ -8,7 +8,7 @@ Your goal is to recreate the following wireframe:  ![Activity Wireframe](3A-acti
 
 For Part A, you'll be asked to come up with the HTML markup that recreates the structure of the design. This is a common task for front-end developers: the designers on your team and your PM might hand you wireframes and designs, and your job is then to translate that into code. The first step is to figure out the HTML structure you want. 
 
-You have 60 minutes to complete this task. **For this part, you should only be concerned with HTML. Don't worry about the visual look of the wireframe. Just make sure your structure makes sense**
+You have 45 minutes to complete this task. **For this part, you should only be concerned with HTML. Don't worry about the visual look of the wireframe. Just make sure your structure makes sense**
 
 **Image Assets:**
 
@@ -27,3 +27,15 @@ You'll want to start with something like this in your *index.html* file.
   </body>
 </html>
 ```
+
+
+## Mini Project B: 
+
+**Goal:**
+
+Your goal in Project B is to attempt to replicate the *visual* look of the wireframe design as closely as possible using CSS rules. 
+
+Part 1: The wireframe reference is the same as Project A.
+
+Part 2: ![Activity Wireframe](3A-activity-mobile-wireframe.png)
+For Part 2, the breakpoint the designer has requested is 480px. 
