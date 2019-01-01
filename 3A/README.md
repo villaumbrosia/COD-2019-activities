@@ -4,7 +4,7 @@
 
 **Goal:**
 
-Your goal is to recreate the following wireframe:  ![Activity Wireframe](3A-activitywireframe.png)
+Your goal is to recreate the following wireframe:  ![Activity Wireframe](3A-activity-wireframe.png)
 
 For Part A, you'll be asked to come up with the HTML markup that recreates the structure of the design. This is a common task for front-end developers: the designers on your team and your PM might hand you wireframes and designs, and your job is then to translate that into code. The first step is to figure out the HTML structure you want. 
 
