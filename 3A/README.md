@@ -29,6 +29,7 @@ You'll want to start with something like this in your *index.html* file.
 ```
 
 
+
 ## Mini Project B: 
 
 **Goal:**
