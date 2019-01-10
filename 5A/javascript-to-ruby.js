@@ -11,9 +11,22 @@ console.log(myVariable);
 
 var mostSpokenLanguages = ['English', 'Mandarin Chinese', 'Spanish', 'Arabic', 'Hindi', 'Russian', 'Malay'];
 mostSpokenLanguages[0];
-mostSpokenLanguages[mostSpokenLanguages.length]
+mostSpokenLanguages[mostSpokenLanguages.length - 1]
 
 mostSpokenLanguages.indexOf('Arabic'); 
+
+
+/** Part 3 **/
+
+var dogProfile = {
+  name: 'Fido',
+  age: 3, 
+  gender: 'male', 
+  breed: 'mixed', 
+  pattern: 'spotted'
+}
+
+dogProfile["name"]; // 'Fido'
 
 /** Part 4 **/
 
