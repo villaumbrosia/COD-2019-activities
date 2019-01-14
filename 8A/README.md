@@ -62,7 +62,7 @@ $ rails console
 Country.where("country_name = ?", "Singapore")[0].continent.continent_name
 ```
 
-  * Remember, Model.where doesn’t directly return a record, but rather an array of records that match the condition, even when only one record matches. 
+    * Remember, Model.where doesn’t directly return a record, but rather an array of records that match the condition, even when only one record matches. 
 
 ## Activity 3: Hooking up the routes and controller
 
