@@ -68,10 +68,10 @@ Country.where("country_name = ?", "Singapore")[0].continent.continent_name
 
 1. Create a route /countries in the file config/routes.rb that by default, will respond with a json that includes all of the country records in the database. 
 2. Generate a new countries_controller.rb file, and edit it so that: 
-  * When the user navigates to /countries?population_under=10000000, only countries with a population under 10 million should be included in the json response
-  * When the user navigates to /countries?population_over=10000000, the opposite should happen 
+    * When the user navigates to /countries?population_under=10000000, only countries with a population under 10 million should be included in the json response
+    * When the user navigates to /countries?population_over=10000000, the opposite should happen 
   
-Bonus: Edit the countries_controller.rb file so that users can filter countries by continent. This will require Googling, since it involves a concept or two from Rails that we haven’t officially covered. 
+**Bonus**: Edit the countries_controller.rb file so that users can filter countries by continent. This will require Googling, since it involves a concept or two from Rails that we haven’t officially covered. 
 
 */countries?continent=North+America*
 
